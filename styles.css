@@ -600,3 +600,37 @@ html {
   }
 }
 /* ===== END EVERYTHING ELSE ===== */
+
+/***Colors***
+https://coolors.co/6fc993-9d8a65-e9e0b2-a688ce-8f63f4
+***Colors***/
+
+
+
+
+[data-theme='vet']{
+  --color-green: #6fc993;
+  --color-brown: #9d8a65;
+  --color-tan: #e9e0b2;
+  --color-light: #a688ce;
+  --color-purple: #8f63f4;
+
+}
+
+/***Header***/
+
+.h1 {
+    color: var(--color-purple);
+}
+.text-primary {
+    color: var(--color-purple);
+}
+.text-base-content {
+    color: var(--color-green);
+}
+
+
+
+.nav-bar{
+  color: var(--color-green)
+}
