@@ -18,25 +18,12 @@ https://coolors.co/6fc993-9d8a65-e9e0b2-a688ce-8f63f4
 }
 
 
-.h-class {
-
-  color: var(--color-green);
-}
-
-.tt-primary {
-
-  color: var(--color-purple);
-}
-
-.tt-base-content {
-  color: var(--color-green);
-}
-
-
-.nav-bar {
-  color: var(--color-green)
-}
-
 .text-base-content {
     color: var(--color-green);
 }
+
+.p-class {
+  color:black;
+}
+
+
