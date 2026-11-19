@@ -1,7 +1,8 @@
-/***Colors***
+/***
+Colors
 https://coolors.co/6fc993-9d8a65-e9e0b2-a688ce-8f63f4
-***Colors***/
-
+Colors
+***/
 [data-theme='vet'] {
   --color-green: #6fc993;
   --color-brown: #9d8a65;
@@ -11,19 +12,18 @@ https://coolors.co/6fc993-9d8a65-e9e0b2-a688ce-8f63f4
 
 }
 
-
-
 .text-primary {
   color: var(--color-purple);
 }
 
+.text-green {
+  color: var(--color-green) !important;
+}
 
 .text-base-content {
-    color: var(--color-green);
+  color: var(--color-green);
 }
 
-.p-class {
-  color:black;
+header h1 {
+  color: pink;
 }
-
-
